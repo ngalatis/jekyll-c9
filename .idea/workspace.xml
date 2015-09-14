@@ -1,352 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df8bb3d5-5681-4b6f-9b47-cfe544a5c9c2" name="Default" comment="latest uikit addition">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/accordion.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/accordion.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/accordion.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/accordion.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/accordion.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/accordion.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/accordion.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/accordion.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/alert.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/alert.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/alert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/animation.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/article.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/article.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/autocomplete.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/autocomplete.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/autocomplete.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/autocomplete.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/autocomplete.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/autocomplete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/autocomplete.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/autocomplete.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/autocomplete.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/autocomplete.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/badge.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/badge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/base.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/base.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/block.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/breadcrumb.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/breadcrumb.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/button.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/button.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/close.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/comment.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/comment.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/contrast.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/contrast.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/core.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/cover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/cover.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/cover.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/cover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/datepicker.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/datepicker.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/datepicker.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/datepicker.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/datepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/datepicker.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/datepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/datepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/datepicker.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/description-list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/description-list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/dotnav.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/dotnav.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/dotnav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/dotnav.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/dotnav.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/dotnav.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/dotnav.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/dotnav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/dropdown.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/dropdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/flex.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/flex.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-advanced.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-advanced.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-advanced.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-advanced.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-advanced.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/form-advanced.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-advanced.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/form-advanced.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-file.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-file.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-file.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-file.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-file.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/form-file.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-file.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/form-file.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-password.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-password.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-password.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-password.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-password.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/form-password.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/form-password.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-password.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/form-password.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/form-password.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-select.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-select.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-select.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-select.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-select.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/form-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/form-select.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/form-select.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/form-select.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/form-select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/form.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/form.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/grid.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/grid.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/htmleditor.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/htmleditor.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/htmleditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/htmleditor.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/htmleditor.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/htmleditor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/htmleditor.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/htmleditor.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/htmleditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/htmleditor.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/icon.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/icon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jekyll-c9.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/lightbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/lightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/modal.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/modal.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/nav.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/nav.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/nestable.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/nestable.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/nestable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/nestable.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/nestable.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/nestable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/nestable.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/nestable.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/nestable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/nestable.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/notify.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/notify.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/notify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/notify.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/notify.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/notify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/notify.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/notify.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/notify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/notify.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/offcanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/offcanvas.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/offcanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/offcanvas.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/overlay.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/overlay.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/pagination.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/pagination.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/panel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/panel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/parallax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/placeholder.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/placeholder.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/placeholder.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/placeholder.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/placeholder.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/placeholder.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/placeholder.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/placeholder.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/print.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/progress.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/progress.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/progress.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/progress.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/progress.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/progress.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/progress.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/scrollspy.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/search.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/search.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/search.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/search.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/search.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/search.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/search.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/search.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/search.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slidenav.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slidenav.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slidenav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slidenav.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slidenav.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/slidenav.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slidenav.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/slidenav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slider.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slider.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slider.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slider.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/slider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slider.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/slider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/slider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/slideset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/slideset.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/slideshow-fx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/slideshow-fx.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slideshow.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slideshow.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slideshow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slideshow.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slideshow.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/slideshow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/slideshow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/slideshow.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/slideshow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/slideshow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/smooth-scroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/smooth-scroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sortable.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sortable.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sortable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sortable.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sortable.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/sortable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/sortable.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sortable.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/sortable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/sortable.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sticky.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sticky.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sticky.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sticky.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sticky.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/sticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/sticky.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/sticky.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/sticky.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/sticky.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/subnav.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/subnav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/switcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/switcher.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/switcher.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/switcher.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/tab.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/tab.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/tab.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/table.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/table.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/thumbnail.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/thumbnail.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/thumbnav.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/thumbnav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/timepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/timepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/toggle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/toggle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/tooltip.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/tooltip.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/tooltip.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/tooltip.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/tooltip.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/tooltip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/touch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/touch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/uikit-mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/uikit-variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/uikit-variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/uikit.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/uikit.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/uikit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/uikit.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/uikit.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/uikit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/uikit.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/uikit.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/uikit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/uikit.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/upload.almost-flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/upload.almost-flat.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/upload.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/upload.gradient.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/upload.gradient.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/components/upload.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/css/components/upload.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/components/upload.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/components/upload.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/utility.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/utility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/js/core/utility.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/utility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/less/core/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_uikit/scss/core/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="df8bb3d5-5681-4b6f-9b47-cfe544a5c9c2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jekyll-c9.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -363,7 +24,98 @@
     <favorites_list name="jekyll-c9" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_base.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/_base.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="12.5">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.82986766">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feed.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feed.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -372,6 +124,13 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -429,6 +188,76 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll-c9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -437,6 +266,28 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -448,6 +299,13 @@
       <option name="number" value="Default" />
       <updated>1442180053059</updated>
     </task>
+    <task id="LOCAL-00001" summary="latest uikit addition">
+      <created>1442181035494</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1442181035494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -461,7 +319,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="960" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -471,7 +329,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988507" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33064517" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988507" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -509,6 +367,126 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.2252252">
           <caret line="8209" column="9" selection-start-line="8209" selection-start-column="9" selection-end-line="8209" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.5">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/watcherTasks.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82986766">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
